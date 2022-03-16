@@ -17,3 +17,5 @@ go get github.com/PuerkitoBio/goquery
 ```
 go run main.go
 ```
+## Hasil
+![ssan](https://user-images.githubusercontent.com/55209063/158515376-c09d70d6-1753-4cad-9077-576949031780.png)
