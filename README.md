@@ -1,7 +1,7 @@
 # Crawl Web
-Implementasi web crawler dengan Go. Program akan mencari link atau informasi di suatu halaman pada domain tertentu.
+Implementasi web crawler dengan Go. Program akan mencari link atau informasi di suatu halaman pada domain tertentu dan kemudian program dapat diakses dengan API yang dibuat.
 Menggunakan goQuery untuk mendapatkan informasi dari halaman web https://csr-assessment-miqdadyyy.vercel.app/
-.Ditulis dengan bahasa go dan library tambahan.
+. Go query digunakan untuk mem parsing elemen HTML dan menggunakan framework fiber.
 
 ## Install
 
